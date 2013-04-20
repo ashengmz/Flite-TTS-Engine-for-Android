@@ -1,569 +1,585 @@
 obj/local/x86/objs-debug/ttsflite/edu_cmu_cs_speech_tts_fliteEngine.o: \
  jni/edu_cmu_cs_speech_tts_fliteEngine.cpp \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdio.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/features.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/host.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/stdio.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/cdefs.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/_types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/_types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/posix_types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/stddef.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/compiler.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/posix_types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/posix_types_32.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/types.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdarg.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stddef.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/stdint.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/kernel.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/sysmacros.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/string.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/string.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/malloc.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/unistd.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/select.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/time.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/time.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/signal.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/signal.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/limits.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/limits.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/limits.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/limits.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/internal_types.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/limits.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/syslimits.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/signal.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm-generic/signal.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/sigcontext.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/siginfo.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm-generic/siginfo.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/sysconf.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/capability.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/pathconf.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/time.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/time.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/math.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/math.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/vector \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/using/cstring \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/climits \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdlib.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/stdlib.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/alloca.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/strings.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/memory.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_pair.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/type_traits.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/type_manips.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_algobase.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_function_base.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iterator.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_vector.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_new.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/../../gabi++/include/new \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/cstddef \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdio.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_construct.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_vector.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_range_errors.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_bvector.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/iostream \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ioserr.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/wchar.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istream.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ios.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ios_base.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_exception.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_locale.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/pthread.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/pthread.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sched.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_npos.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_operators.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_function.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctype.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/c_locale.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_numpunct.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ios.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_streambuf.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_streambuf.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ostream.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ostream.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_put.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_put.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_limits.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/cfloat \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/float.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_limits.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istream.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/sstream \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_sstream.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_sstream.c \
- /home/chinna/flite-1.5.6-current//include/flite.h \
- /home/chinna/flite-1.5.6-current//include/cst_string.h \
- /home/chinna/flite-1.5.6-current//include/cst_regex.h \
- /home/chinna/flite-1.5.6-current//include/cst_file.h \
- /home/chinna/flite-1.5.6-current//include/cst_val.h \
- /home/chinna/flite-1.5.6-current//include/cst_error.h \
- /home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/setjmp.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/setjmp.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/setjmp.h \
- /home/chinna/flite-1.5.6-current//include/cst_alloc.h \
- /home/chinna/flite-1.5.6-current//include/cst_val_defs.h \
- /home/chinna/flite-1.5.6-current//include/cst_val_const.h \
- /home/chinna/flite-1.5.6-current//include/cst_features.h \
- /home/chinna/flite-1.5.6-current//include/cst_item.h \
- /home/chinna/flite-1.5.6-current//include/cst_relation.h \
- /home/chinna/flite-1.5.6-current//include/cst_utterance.h \
- /home/chinna/flite-1.5.6-current//include/cst_wave.h \
- /home/chinna/flite-1.5.6-current//include/cst_endian.h \
- /home/chinna/flite-1.5.6-current//include/cst_track.h \
- /home/chinna/flite-1.5.6-current//include/cst_cart.h \
- /home/chinna/flite-1.5.6-current//include/cst_phoneset.h \
- /home/chinna/flite-1.5.6-current//include/cst_voice.h \
- /home/chinna/flite-1.5.6-current//include/cst_lexicon.h \
- /home/chinna/flite-1.5.6-current//include/cst_lts.h \
- /home/chinna/flite-1.5.6-current//include/cst_audio.h \
- /home/chinna/flite-1.5.6-current//include/cst_hrg.h \
- /home/chinna/flite-1.5.6-current//include/cst_utt_utils.h \
- /home/chinna/flite-1.5.6-current//include/cst_synth.h \
- /home/chinna/flite-1.5.6-current//include/cst_tokenstream.h \
- /home/chinna/flite-1.5.6-current//include/cst_units.h \
- /home/chinna/flite-1.5.6-current//include/cst_sts.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/jni.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdio.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/features.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/host.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/stdio.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/cdefs.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/android/api-level.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/types.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stddef.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/stdint.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/_types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/_types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/posix_types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/stddef.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/compiler.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/posix_types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/posix_types_32.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/kernel.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/sysmacros.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdarg.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/string.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/string.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/malloc.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/unistd.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/select.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/time.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/time.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/signal.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/signal.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/limits.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/limits.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/limits.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/limits.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/internal_types.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/limits.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/syslimits.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/page.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/page_32.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/signal.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm-generic/signal.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/sigcontext.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/siginfo.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm-generic/siginfo.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/sysconf.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/capability.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/pathconf.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/time.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/time.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/math.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/math.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/vector \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/using/cstring \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/climits \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdlib.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/stdlib.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/alloca.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/strings.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/memory.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_pair.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/type_traits.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/type_manips.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_algobase.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_function_base.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iterator.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_vector.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_new.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/../../gabi++/include/new \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/cstddef \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/exception \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstdio.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_construct.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_alloc.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_vector.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_range_errors.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_bvector.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/iostream \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ioserr.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/wchar.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_istream.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ios.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ios_base.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_exception.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_locale.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/pthread.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/pthread.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sched.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_npos.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_operators.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_function.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctype.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/c_locale.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_numpunct.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ios.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_streambuf.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_streambuf.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ostream.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ostream.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_put.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_put.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_limits.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/cfloat \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/float.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_limits.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_istream.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/sstream \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_sstream.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_sstream.c \
+ /home/ashen/flite-1.5.6-current/include/flite.h \
+ /home/ashen/flite-1.5.6-current/include/cst_string.h \
+ /home/ashen/flite-1.5.6-current/include/cst_regex.h \
+ /home/ashen/flite-1.5.6-current/include/cst_file.h \
+ /home/ashen/flite-1.5.6-current/include/cst_val.h \
+ /home/ashen/flite-1.5.6-current/include/cst_error.h \
+ /home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/setjmp.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/setjmp.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/setjmp.h \
+ /home/ashen/flite-1.5.6-current/include/cst_alloc.h \
+ /home/ashen/flite-1.5.6-current/include/cst_val_defs.h \
+ /home/ashen/flite-1.5.6-current/include/cst_val_const.h \
+ /home/ashen/flite-1.5.6-current/include/cst_features.h \
+ /home/ashen/flite-1.5.6-current/include/cst_item.h \
+ /home/ashen/flite-1.5.6-current/include/cst_relation.h \
+ /home/ashen/flite-1.5.6-current/include/cst_utterance.h \
+ /home/ashen/flite-1.5.6-current/include/cst_wave.h \
+ /home/ashen/flite-1.5.6-current/include/cst_endian.h \
+ /home/ashen/flite-1.5.6-current/include/cst_track.h \
+ /home/ashen/flite-1.5.6-current/include/cst_cart.h \
+ /home/ashen/flite-1.5.6-current/include/cst_phoneset.h \
+ /home/ashen/flite-1.5.6-current/include/cst_voice.h \
+ /home/ashen/flite-1.5.6-current/include/cst_lexicon.h \
+ /home/ashen/flite-1.5.6-current/include/cst_lts.h \
+ /home/ashen/flite-1.5.6-current/include/cst_audio.h \
+ /home/ashen/flite-1.5.6-current/include/cst_hrg.h \
+ /home/ashen/flite-1.5.6-current/include/cst_utt_utils.h \
+ /home/ashen/flite-1.5.6-current/include/cst_synth.h \
+ /home/ashen/flite-1.5.6-current/include/cst_tokenstream.h \
+ /home/ashen/flite-1.5.6-current/include/cst_units.h \
+ /home/ashen/flite-1.5.6-current/include/cst_sts.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/jni.h \
  jni/./edu_cmu_cs_speech_tts_Common.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/android/log.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/android/log.h \
  jni/./edu_cmu_cs_speech_tts_fliteVoices.h \
  jni/././edu_cmu_cs_speech_tts_String.h jni/tts/tts.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/stat.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/stat.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/endian.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/endian.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/fcntl.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/fcntl.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/fcntl.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm-generic/fcntl.h \
- /home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/dirent.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/stat.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/stat.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/endian.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/endian.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/endian.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/fcntl.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/fcntl.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/fcntl.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm-generic/fcntl.h \
+ /home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/dirent.h \
  jni/./edu_cmu_cs_speech_tts_String.h
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdio.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdio.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/features.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/features.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/host.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/host.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/stdio.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/stdio.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/cdefs.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/cdefs.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/_types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/android/api-level.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/_types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/types.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stddef.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/posix_types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/stdint.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/stddef.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/_types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/compiler.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/_types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/posix_types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/posix_types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/posix_types_32.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/stddef.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/compiler.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdarg.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/posix_types.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stddef.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/posix_types_32.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/stdint.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/kernel.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/kernel.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/sysmacros.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/sysmacros.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdarg.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/string.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/string.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/string.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/malloc.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/string.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/unistd.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/malloc.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/select.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/unistd.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/time.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/select.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/time.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/time.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/signal.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/time.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/signal.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/signal.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/limits.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/signal.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/limits.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/limits.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/limits.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/limits.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/limits.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/limits.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/internal_types.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/limits.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/limits.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/internal_types.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/syslimits.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/limits.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/signal.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/syslimits.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm-generic/signal.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/page.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/sigcontext.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/page_32.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/siginfo.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/signal.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm-generic/siginfo.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm-generic/signal.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/sysconf.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/sigcontext.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/capability.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/siginfo.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/pathconf.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm-generic/siginfo.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/time.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/sysconf.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/time.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/capability.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/math.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/pathconf.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/math.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/time.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/vector:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/time.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/math.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/math.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_algobase.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/vector:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/using/cstring:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_algobase.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/climits:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdlib.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/using/cstring:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/stdlib.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/climits:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/alloca.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/strings.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdlib.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/memory.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/stdlib.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/alloca.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_pair.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/strings.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/type_traits.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/memory.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/type_manips.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_pair.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/type_traits.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/type_manips.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_algobase.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_function_base.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iterator.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_vector.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_algobase.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_function_base.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_new.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iterator.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/../../gabi++/include/new:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_vector.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/cstddef:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_new.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdio.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/../../gabi++/include/new:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_construct.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/cstddef:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/exception:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_vector.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_range_errors.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstdio.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_bvector.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_construct.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_alloc.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/iostream:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ioserr.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_vector.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_range_errors.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/char_traits.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_bvector.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/wchar.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/iostream:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ioserr.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istream.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ios.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/char_traits.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ios_base.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/wchar.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_exception.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_istream.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_locale.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ios.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ios_base.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/pthread.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/pthread.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_exception.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sched.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_locale.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctime.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/pthread.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/pthread.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_base.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sched.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_npos.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_operators.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctime.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_function.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_base.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_npos.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_operators.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctype.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/c_locale.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_numpunct.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_function.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ios.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_streambuf.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_streambuf.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctype.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ostream.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/c_locale.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_numpunct.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ostream.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ios.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_put.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_streambuf.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_streambuf.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_put.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ostream.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_limits.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/cfloat:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ostream.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/float.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_put.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_limits.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_put.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istream.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_limits.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/cfloat:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/float.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/sstream:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_limits.c:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_sstream.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_sstream.c:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_istream.c:
 
-/home/chinna/flite-1.5.6-current//include/flite.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_string.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
 
-/home/chinna/flite-1.5.6-current//include/cst_regex.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/sstream:
 
-/home/chinna/flite-1.5.6-current//include/cst_file.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_sstream.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_val.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_sstream.c:
 
-/home/chinna/flite-1.5.6-current//include/cst_error.h:
+/home/ashen/flite-1.5.6-current/include/flite.h:
 
-/home/chinna/android-ndk-r8/sources/cxx-stl/stlport/stlport/setjmp.h:
+/home/ashen/flite-1.5.6-current/include/cst_string.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/../include/setjmp.h:
+/home/ashen/flite-1.5.6-current/include/cst_regex.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/machine/setjmp.h:
+/home/ashen/flite-1.5.6-current/include/cst_file.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_alloc.h:
+/home/ashen/flite-1.5.6-current/include/cst_val.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_val_defs.h:
+/home/ashen/flite-1.5.6-current/include/cst_error.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_val_const.h:
+/home/ashen/android-ndk-r8e/sources/cxx-stl/stlport/stlport/setjmp.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_features.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/../include/setjmp.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_item.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/setjmp.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_relation.h:
+/home/ashen/flite-1.5.6-current/include/cst_alloc.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_utterance.h:
+/home/ashen/flite-1.5.6-current/include/cst_val_defs.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_wave.h:
+/home/ashen/flite-1.5.6-current/include/cst_val_const.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_endian.h:
+/home/ashen/flite-1.5.6-current/include/cst_features.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_track.h:
+/home/ashen/flite-1.5.6-current/include/cst_item.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_cart.h:
+/home/ashen/flite-1.5.6-current/include/cst_relation.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_phoneset.h:
+/home/ashen/flite-1.5.6-current/include/cst_utterance.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_voice.h:
+/home/ashen/flite-1.5.6-current/include/cst_wave.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_lexicon.h:
+/home/ashen/flite-1.5.6-current/include/cst_endian.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_lts.h:
+/home/ashen/flite-1.5.6-current/include/cst_track.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_audio.h:
+/home/ashen/flite-1.5.6-current/include/cst_cart.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_hrg.h:
+/home/ashen/flite-1.5.6-current/include/cst_phoneset.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_utt_utils.h:
+/home/ashen/flite-1.5.6-current/include/cst_voice.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_synth.h:
+/home/ashen/flite-1.5.6-current/include/cst_lexicon.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_tokenstream.h:
+/home/ashen/flite-1.5.6-current/include/cst_lts.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_units.h:
+/home/ashen/flite-1.5.6-current/include/cst_audio.h:
 
-/home/chinna/flite-1.5.6-current//include/cst_sts.h:
+/home/ashen/flite-1.5.6-current/include/cst_hrg.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/jni.h:
+/home/ashen/flite-1.5.6-current/include/cst_utt_utils.h:
+
+/home/ashen/flite-1.5.6-current/include/cst_synth.h:
+
+/home/ashen/flite-1.5.6-current/include/cst_tokenstream.h:
+
+/home/ashen/flite-1.5.6-current/include/cst_units.h:
+
+/home/ashen/flite-1.5.6-current/include/cst_sts.h:
+
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/jni.h:
 
 jni/./edu_cmu_cs_speech_tts_Common.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/android/log.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/android/log.h:
 
 jni/./edu_cmu_cs_speech_tts_fliteVoices.h:
 
@@ -571,22 +587,24 @@ jni/././edu_cmu_cs_speech_tts_String.h:
 
 jni/tts/tts.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/stat.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/stat.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/stat.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/stat.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/endian.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/endian.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/sys/endian.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/sys/endian.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/fcntl.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/machine/endian.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/linux/fcntl.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/fcntl.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm/fcntl.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/linux/fcntl.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/asm-generic/fcntl.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm/fcntl.h:
 
-/home/chinna/android-ndk-r8/platforms/android-14/arch-x86/usr/include/dirent.h:
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/asm-generic/fcntl.h:
+
+/home/ashen/android-ndk-r8e/platforms/android-14/arch-x86/usr/include/dirent.h:
 
 jni/./edu_cmu_cs_speech_tts_String.h:

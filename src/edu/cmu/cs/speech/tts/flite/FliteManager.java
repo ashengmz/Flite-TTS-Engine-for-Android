@@ -22,6 +22,7 @@ public class FliteManager extends Activity implements OnItemClickListener {
 		new LauncherIcon(R.drawable.ic_dashboard_manage, "Manage Voices", DownloadVoiceData.class),
 		new LauncherIcon(R.drawable.ic_dashboard_about, "About Flite", FliteInfoViewer.class),
 		new LauncherIcon(R.drawable.ic_dashboard_about, "test", Flitetest.class),
+		new LauncherIcon(R.drawable.custom_dialog_tts, "TTS Demo", TtsDemo.class),
 	};																																																																																																																																																																																																																																																																																																																										
 		
 	@Override

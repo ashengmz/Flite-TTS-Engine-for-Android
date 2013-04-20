@@ -217,4 +217,7 @@ public class Voice {
 	public String getPath() {
 		return mVoicePath;
 	}
+	public Locale getLocale() {
+		return new Locale(mVoiceLanguage, mVoiceCountry, mVoiceVariant);
+	}
 }

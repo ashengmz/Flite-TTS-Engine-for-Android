@@ -85,3 +85,12 @@ Application Build Steps
     cd $FLITE_APP_DIR
     ant debug
 
+///////////////////////////////////////////////
+
+*Extra info for adding voice data to the emulator
+
+	get voice data from  http://tts.speech.cs.cmu.edu/android/flite-data.tar.bz2
+
+	Add them into  the sd card
+	To find more info about how to copy files into sd card on emulator go to
+	http://android-er.blogspot.com/2009/08/copying-files-to-disk-image.html

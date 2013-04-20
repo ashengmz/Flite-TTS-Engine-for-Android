@@ -17,7 +17,7 @@
         android:icon="@drawable/icon"
         android:label="@string/app_name" >
         <service
-            android:name=".FliteTtsService"
+            android:name="edu.cmu.cs.speech.tts.flite.FliteTtsService"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.TTS_SERVICE" />
@@ -31,7 +31,7 @@
         </service>
 
         <activity
-            android:name="FliteManager"
+            android:name="edu.cmu.cs.speech.tts.flite.FliteManager"
             android:enabled="true"
             android:label="@string/flite_manager"
             android:launchMode="standard" >
@@ -42,9 +42,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DownloadVoiceData"
-            android:label="@string/flite_voice_manager"
-            android:theme="@android:style/Theme.Holo" >
+            android:name="edu.cmu.cs.speech.tts.flite.DownloadVoiceData"
+            android:label="@string/flite_voice_manager">
             <intent-filter>
                 <action android:name="android.speech.tts.engine.INSTALL_TTS_DATA" />
 
@@ -52,7 +51,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CheckVoiceData"
+            android:name="edu.cmu.cs.speech.tts.flite.CheckVoiceData"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" >
             <intent-filter>
@@ -62,7 +61,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".GetSampleText"
+            android:name="edu.cmu.cs.speech.tts.flite.GetSampleText"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" >
             <intent-filter>
@@ -75,7 +74,7 @@
         <!-- Legacy Code for pre-ICS compatibility -->
 
         <activity
-            android:name=".Flite"
+            android:name="edu.cmu.cs.speech.tts.flite.Flite"
             android:enabled="true"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" >
@@ -92,18 +91,21 @@
             android:authorities="edu.cmu.cs.speech.tts.flite.providers.SettingsProvider" />
 
         <activity-alias
-            android:name=".TtsSettingsActivity"
+            android:name="edu.cmu.cs.speech.tts.flite.TtsSettingsActivity"
             android:targetActivity=".FliteManager" />
         <activity-alias
-            android:name=".EngineSettings"
+            android:name="edu.cmu.cs.speech.tts.flite.EngineSettings"
             android:targetActivity=".FliteManager" />
 
-        <activity android:name="FliteInfoViewer" >
+        <activity android:name="edu.cmu.cs.speech.tts.flite.FliteInfoViewer" >
+        </activity>
+        <activity android:name="edu.cmu.cs.speech.tts.flite.ManageVoiceDownloads" >
+        </activity>
+        <activity android:name="edu.cmu.cs.speech.tts.flite.Flitetest" >
         </activity>
         <activity
-            android:name=".ManageVoiceDownloads" >
+            android:name="edu.cmu.cs.speech.tts.flite.TtsDemo" >
         </activity>
-        <activity android:name="Flitetest"></activity>
     </application>
 
 </manifest>
